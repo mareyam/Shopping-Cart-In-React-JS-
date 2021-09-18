@@ -1,0 +1,135 @@
+.CartMainDiv
+{
+  width: 800px;
+  height: 600px;
+  background-color: rgb(129, 167, 206);;
+  margin: auto;
+  margin-top: 5%;
+  padding-left: 5%;
+  margin-bottom: 5%;
+  
+}
+.CartMainDivh3
+{
+  padding-right: 10%;
+}
+.CartMainDivh4
+{
+  padding-top: 3%;
+  font-weight: 100;
+  
+}
+.subdivheading
+{
+  display: flex;
+}
+.cart-icon
+{
+  width: 100%;
+  height: auto;
+}
+.items-info
+{
+  display: flex;
+}
+.cart-items-container
+{
+  width: 100%;
+  background-color: rgb(218, 211, 211);
+}
+.cart
+{
+  width: 600px;
+  height: 300px;
+  overflow-y: scroll;
+  margin: auto;
+}
+.subdiv2h3
+{
+  margin-left: 30rem;
+  padding-top: 5%;
+}
+.subdiv1
+{
+  display: flex;
+  padding-top: 1%;
+}
+.CartMainDivh2
+{
+  font-weight: 800;
+  font-size: large;
+  letter-spacing: 2px;
+}
+.clear-cart
+{
+  background-color: rgb(228, 129, 129);
+}
+.button
+{
+  background-color: rgb(111, 177, 111);
+}
+.product-img
+{
+  max-width: 100%;
+  max-height: 100%;
+}
+.product-img img
+{
+  padding: 5%;
+  height: 100px;
+  width: 90px;
+}
+.title
+{
+  padding-left: 5%;
+  padding-top: 5%;
+}
+.title h2
+{
+  font-size: large;
+  font-weight: 500;
+  padding:auto;
+}
+
+.title p
+{
+  padding:auto;
+  font-weight: 200;
+}
+.add-minus-quantity
+{
+  display: flex;
+  padding-top: 4%;
+  padding-left: 10%;
+ 
+}
+.price,.remove
+{
+  padding-left: 10%;
+  padding-top: 5%;
+}
+.add-minus-quantity
+{
+  padding-top: -5%;
+}
+.add-minus-quantity input
+{
+  width: 30px;
+  background-color: white;
+  padding-left: 3%;
+}
+.totalCost
+{
+  padding-top: 5%;
+}
+.p1,.p2
+{
+  font-size: x-large;
+  font-weight: 800;
+  padding-top: -15%;
+}
+.remButton
+{
+  font-size: x-large;
+  font-weight: 800;
+}
